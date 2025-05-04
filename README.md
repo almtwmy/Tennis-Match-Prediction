@@ -67,3 +67,12 @@ Build a machine learning model that predicts whether **Player 1 wins (target = 1
 - Add more dynamic features (like recent form, head-to-head statistics).
 - Explore deep learning if more features and computing power are available.
 
+## Data Source and License
+
+The tennis match data used in this project is provided by [Jeff Sackmann / Tennis Abstract](https://github.com/JeffSackmann/tennis_atp).
+
+This dataset is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This project is for **academic and non-commercial purposes** only.
+
+
